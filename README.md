@@ -28,6 +28,7 @@ Analysing environmental differences across multiple locations
 The system operates in two modes:
 
 Local Mode: Pico W acts as a web server to display live sensor readings
+
 Cloud Mode: Sensor data is sent over Wi-Fi and stored in Google Sheets
 
 ---
