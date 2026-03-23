@@ -98,12 +98,13 @@ Socket Programming
 🔐 Configuration
 
 ### Sensitive data has been removed:
-''
+
+```
 ssid = ""
 password = ""
 SCRIPT_URL = ""
 TIME_URL = ""
-''
+```
 
 Users should insert their own credentials when running the project.
 
