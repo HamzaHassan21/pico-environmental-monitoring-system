@@ -51,7 +51,7 @@ The Pico W hosts a local web server that displays live BME280 readings and refre
 
 ### ☁️ Cloud Data Logging
 
-
+![Google_sheet](pico-iot-bme280/images/google_sheet_bme280_logger.png)
 
 
 Sensor data is transmitted via HTTP requests and stored in Google Sheets for further analysis.
