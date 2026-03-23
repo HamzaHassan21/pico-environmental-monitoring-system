@@ -20,8 +20,9 @@ Analysing environmental differences across multiple locations
 
 ## System Architecture:
 
-BME280 Sensor → Pico W → Wi-Fi → Google Apps Script → Google Sheets
 ![IoT System Architecture](pico-iot-bme280/diagrams/IoT_System_Architecture_Diagram.png)
+
+### BME280 Sensor → Pico W → Wi-Fi → Google Apps Script → Google Sheets
 
 
 The system operates in two modes:
