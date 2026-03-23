@@ -29,10 +29,9 @@ Error handling for network reliability
 Clean modular MicroPython implementation
 
 ## System Architecture
+
+
 ![IoT System Architecture](pico-iot-bme280/diagrams/IoT_System_Architecture_Diagram.png)
-
-
-
 
 
 
@@ -43,6 +42,8 @@ Local web server operation
 Cloud-based data logging pipeline
 ### 🌐 Web Server Output
 
+
+![Web_Server_Output](pico-iot-bme280/images/browser_bme_server.png)
 
 
 
