@@ -29,7 +29,6 @@ Error handling for network reliability
 Clean modular MicroPython implementation
 
 ## System Architecture
-
 ![IoT System Architecture](diagrams/IoT_System_Architecture_Diagram.png)
 
 
