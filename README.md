@@ -157,14 +157,9 @@ Open project in Thonny
 Upload required files to Pico
 Enter your Wi-Fi credentials
 
-2️⃣ Setup
-Open project in Thonny
-Upload required files to Pico
-Enter your Wi-Fi credentials
-
 ---
 
-### 4️⃣ Access Web Interface
+## Access Web Interface
 
 After running the web server:
 
